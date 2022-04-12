@@ -1,0 +1,13 @@
+C:\Users\Sandeep\source\repos\Task1\Task1\bin\Debug\netcoreapp3.1\Capgeminiassignments.exe
+C:\Users\Sandeep\source\repos\Task1\Task1\bin\Debug\netcoreapp3.1\Capgeminiassignments.deps.json
+C:\Users\Sandeep\source\repos\Task1\Task1\bin\Debug\netcoreapp3.1\Capgeminiassignments.runtimeconfig.json
+C:\Users\Sandeep\source\repos\Task1\Task1\bin\Debug\netcoreapp3.1\Capgeminiassignments.runtimeconfig.dev.json
+C:\Users\Sandeep\source\repos\Task1\Task1\bin\Debug\netcoreapp3.1\Capgeminiassignments.dll
+C:\Users\Sandeep\source\repos\Task1\Task1\bin\Debug\netcoreapp3.1\Capgeminiassignments.pdb
+C:\Users\Sandeep\source\repos\Task1\Task1\obj\Debug\netcoreapp3.1\Capgeminiassignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandeep\source\repos\Task1\Task1\obj\Debug\netcoreapp3.1\Capgeminiassignments.AssemblyInfoInputs.cache
+C:\Users\Sandeep\source\repos\Task1\Task1\obj\Debug\netcoreapp3.1\Capgeminiassignments.AssemblyInfo.cs
+C:\Users\Sandeep\source\repos\Task1\Task1\obj\Debug\netcoreapp3.1\Capgeminiassignments.csproj.CoreCompileInputs.cache
+C:\Users\Sandeep\source\repos\Task1\Task1\obj\Debug\netcoreapp3.1\Capgeminiassignments.dll
+C:\Users\Sandeep\source\repos\Task1\Task1\obj\Debug\netcoreapp3.1\Capgeminiassignments.pdb
+C:\Users\Sandeep\source\repos\Task1\Task1\obj\Debug\netcoreapp3.1\Capgeminiassignments.genruntimeconfig.cache
